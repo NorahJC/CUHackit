@@ -4,7 +4,7 @@
 
 Team Members: Roger, An, and Ghita
 
-Prompt: Bettering campus-lifeP
+Prompt: Bettering campus-life
 
 Project: StaySharp
 Purpose: After a semester, students may need refreshers to stay sharp on the materials they have learned (pre-reqs for courses, technical interviews, etc.) 
@@ -17,4 +17,6 @@ This does not represent the project in its entirety. It just serves to give a ge
 Skills were created for questions and facts. Alexa used questions and Slack used facts.
 
 
-Project was accomplished on the AWS platform. 
+Project was mostly accomplished on the AWS platform (skills, code, and Slack bot configuration) . 
+
+
